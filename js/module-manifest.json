@@ -1,0 +1,387 @@
+[
+  {
+    "path": "js/core/defensive.js",
+    "baseName": "defensive",
+    "patchNum": 0,
+    "lines": "2101-2518",
+    "size": 18564
+  },
+  {
+    "path": "js/core/event-manager.js",
+    "baseName": "event-manager",
+    "patchNum": 0,
+    "lines": "2526-2613",
+    "size": 2668
+  },
+  {
+    "path": "js/_unclassified/unclassified_2.js",
+    "baseName": "unclassified_2",
+    "patchNum": 0,
+    "lines": "2615-2671",
+    "size": 1909
+  },
+  {
+    "path": "js/performance/perf-monitor.js",
+    "baseName": "perf-monitor",
+    "patchNum": 0,
+    "lines": "2673-2681",
+    "size": 305
+  },
+  {
+    "path": "js/performance/pools-and-memory.js",
+    "baseName": "pools-and-memory",
+    "patchNum": 0,
+    "lines": "3135-3808",
+    "size": 24610
+  },
+  {
+    "path": "js/systems/tile-logic-patches.js",
+    "baseName": "tile-logic-patches",
+    "patchNum": 0,
+    "lines": "3811-3831",
+    "size": 1032
+  },
+  {
+    "path": "js/_unclassified/unclassified_6.js",
+    "baseName": "unclassified_6",
+    "patchNum": 0,
+    "lines": "3836-3878",
+    "size": 2186
+  },
+  {
+    "path": "js/core/dom-utils.js",
+    "baseName": "dom-utils",
+    "patchNum": 0,
+    "lines": "3883-4135",
+    "size": 12474
+  },
+  {
+    "path": "js/systems/settings.js",
+    "baseName": "settings",
+    "patchNum": 0,
+    "lines": "4140-4309",
+    "size": 7114
+  },
+  {
+    "path": "js/ui/toast.js",
+    "baseName": "toast",
+    "patchNum": 0,
+    "lines": "4314-4336",
+    "size": 801
+  },
+  {
+    "path": "js/systems/fullscreen.js",
+    "baseName": "fullscreen",
+    "patchNum": 0,
+    "lines": "4341-4406",
+    "size": 2499
+  },
+  {
+    "path": "js/systems/audio.js",
+    "baseName": "audio",
+    "patchNum": 0,
+    "lines": "4409-4529",
+    "size": 4958
+  },
+  {
+    "path": "js/systems/save-system.js",
+    "baseName": "save-system",
+    "patchNum": 0,
+    "lines": "4532-4840",
+    "size": 15208
+  },
+  {
+    "path": "js/ui/ux-wiring.js",
+    "baseName": "ux-wiring",
+    "patchNum": 0,
+    "lines": "4845-5313",
+    "size": 22402
+  },
+  {
+    "path": "js/core/constants.js",
+    "baseName": "constants",
+    "patchNum": 0,
+    "lines": "5318-5659",
+    "size": 28700
+  },
+  {
+    "path": "js/engine/noise.js",
+    "baseName": "noise",
+    "patchNum": 0,
+    "lines": "5664-5727",
+    "size": 2561
+  },
+  {
+    "path": "js/engine/textures.js",
+    "baseName": "textures",
+    "patchNum": 0,
+    "lines": "5732-6351",
+    "size": 28423
+  },
+  {
+    "path": "js/_unclassified/unclassified_17.js",
+    "baseName": "unclassified_17",
+    "patchNum": 0,
+    "lines": "6354-6434",
+    "size": 2012
+  },
+  {
+    "path": "js/engine/world-generator.js",
+    "baseName": "world-generator",
+    "patchNum": 0,
+    "lines": "6439-8665",
+    "size": 98880
+  },
+  {
+    "path": "js/entities/particle-system.js",
+    "baseName": "particle-system",
+    "patchNum": 0,
+    "lines": "8670-8784",
+    "size": 4086
+  },
+  {
+    "path": "js/entities/dropped-items.js",
+    "baseName": "dropped-items",
+    "patchNum": 0,
+    "lines": "8789-9179",
+    "size": 15176
+  },
+  {
+    "path": "js/entities/ambient-particles.js",
+    "baseName": "ambient-particles",
+    "patchNum": 0,
+    "lines": "9184-9342",
+    "size": 7510
+  },
+  {
+    "path": "js/entities/player.js",
+    "baseName": "player",
+    "patchNum": 0,
+    "lines": "9347-9803",
+    "size": 19275
+  },
+  {
+    "path": "js/input/touch-controller.js",
+    "baseName": "touch-controller",
+    "patchNum": 0,
+    "lines": "9808-9992",
+    "size": 8223
+  },
+  {
+    "path": "js/engine/renderer.js",
+    "baseName": "renderer",
+    "patchNum": 0,
+    "lines": "9997-11074",
+    "size": 48136
+  },
+  {
+    "path": "js/ui/crafting.js",
+    "baseName": "crafting",
+    "patchNum": 0,
+    "lines": "11079-11255",
+    "size": 6780
+  },
+  {
+    "path": "js/ui/ui-manager.js",
+    "baseName": "ui-manager",
+    "patchNum": 0,
+    "lines": "11258-11310",
+    "size": 1716
+  },
+  {
+    "path": "js/systems/quality.js",
+    "baseName": "quality",
+    "patchNum": 0,
+    "lines": "11313-11643",
+    "size": 15244
+  },
+  {
+    "path": "js/ui/ui-manager_patch_1.js",
+    "baseName": "ui-manager",
+    "patchNum": 1,
+    "lines": "11648-12139",
+    "size": 21662
+  },
+  {
+    "path": "js/ui/minimap.js",
+    "baseName": "minimap",
+    "patchNum": 0,
+    "lines": "12142-12258",
+    "size": 4653
+  },
+  {
+    "path": "js/_unclassified/unclassified_30.js",
+    "baseName": "unclassified_30",
+    "patchNum": 0,
+    "lines": "12261-12349",
+    "size": 3358
+  },
+  {
+    "path": "js/ui/inventory-ui.js",
+    "baseName": "inventory-ui",
+    "patchNum": 0,
+    "lines": "12352-13133",
+    "size": 33735
+  },
+  {
+    "path": "js/input/input-manager.js",
+    "baseName": "input-manager",
+    "patchNum": 0,
+    "lines": "13138-13413",
+    "size": 12534
+  },
+  {
+    "path": "js/ui/inventory-system.js",
+    "baseName": "inventory-system",
+    "patchNum": 0,
+    "lines": "13418-13506",
+    "size": 3157
+  },
+  {
+    "path": "js/engine/parallax.js",
+    "baseName": "parallax",
+    "patchNum": 0,
+    "lines": "13511-14501",
+    "size": 44510
+  },
+  {
+    "path": "js/engine/parallax_patch_1.js",
+    "baseName": "parallax",
+    "patchNum": 1,
+    "lines": "14507-15260",
+    "size": 57204
+  },
+  {
+    "path": "js/systems/weather.js",
+    "baseName": "weather",
+    "patchNum": 0,
+    "lines": "15263-15663",
+    "size": 28185
+  },
+  {
+    "path": "js/systems/weather_patch_1.js",
+    "baseName": "weather",
+    "patchNum": 1,
+    "lines": "15666-16565",
+    "size": 75752
+  },
+  {
+    "path": "js/systems/tile-logic-engine.js",
+    "baseName": "tile-logic-engine",
+    "patchNum": 0,
+    "lines": "16568-17783",
+    "size": 70543
+  },
+  {
+    "path": "js/systems/weather_patch_2.js",
+    "baseName": "weather",
+    "patchNum": 2,
+    "lines": "17786-18088",
+    "size": 22307
+  },
+  {
+    "path": "js/systems/weather_patch_3.js",
+    "baseName": "weather",
+    "patchNum": 3,
+    "lines": "18091-18814",
+    "size": 52874
+  },
+  {
+    "path": "js/_unclassified/unclassified_41.js",
+    "baseName": "unclassified_41",
+    "patchNum": 0,
+    "lines": "18817-19005",
+    "size": 14526
+  },
+  {
+    "path": "js/systems/tile-logic-patches_patch_1.js",
+    "baseName": "tile-logic-patches",
+    "patchNum": 1,
+    "lines": "19008-20875",
+    "size": 130567
+  },
+  {
+    "path": "js/_unclassified/unclassified_43.js",
+    "baseName": "unclassified_43",
+    "patchNum": 0,
+    "lines": "20878-20898",
+    "size": 1364
+  },
+  {
+    "path": "js/core/patch-manager.js",
+    "baseName": "patch-manager",
+    "patchNum": 0,
+    "lines": "20901-21225",
+    "size": 25092
+  },
+  {
+    "path": "js/systems/weather_patch_4.js",
+    "baseName": "weather",
+    "patchNum": 4,
+    "lines": "21228-21799",
+    "size": 43665
+  },
+  {
+    "path": "js/workers/worker-client.js",
+    "baseName": "worker-client",
+    "patchNum": 0,
+    "lines": "21802-22775",
+    "size": 88580
+  },
+  {
+    "path": "js/core/error-guards.js",
+    "baseName": "error-guards",
+    "patchNum": 0,
+    "lines": "22780-22814",
+    "size": 2309
+  },
+  {
+    "path": "js/systems/tile-logic-patches_patch_2.js",
+    "baseName": "tile-logic-patches",
+    "patchNum": 2,
+    "lines": "22817-23465",
+    "size": 47507
+  },
+  {
+    "path": "js/systems/tile-logic-patches_patch_3.js",
+    "baseName": "tile-logic-patches",
+    "patchNum": 3,
+    "lines": "23468-24119",
+    "size": 50775
+  },
+  {
+    "path": "js/performance/gc-optimizations.js",
+    "baseName": "gc-optimizations",
+    "patchNum": 0,
+    "lines": "24122-24438",
+    "size": 23146
+  },
+  {
+    "path": "js/boot/boot.js",
+    "baseName": "boot",
+    "patchNum": 0,
+    "lines": "24443-24473",
+    "size": 1808
+  },
+  {
+    "path": "js/systems/tile-logic-patches_patch_4.js",
+    "baseName": "tile-logic-patches",
+    "patchNum": 4,
+    "lines": "24475-24498",
+    "size": 1440
+  },
+  {
+    "path": "js/engine/lighting-patch.js",
+    "baseName": "lighting-patch",
+    "patchNum": 0,
+    "lines": "24499-24601",
+    "size": 2955
+  },
+  {
+    "path": "js/boot/health-check.js",
+    "baseName": "health-check",
+    "patchNum": 0,
+    "lines": "24604-24669",
+    "size": 2453
+  }
+]
